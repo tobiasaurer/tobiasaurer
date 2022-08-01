@@ -6,7 +6,8 @@ When I first made contact with python and R in the context of machine learning (
 
 - 🔭 I’m currently taking part in a full-time 15 week datascience bootcamp at the WBS - Coding School
 - 🌱 I’m currently learning Python, pandas, machine-learning, SQL, A/B-testing, data-visualisation, and many other new things 
-
+- ✨ This github will be a collection of my personal datascience and programming projects  
+  
 - 📫 You can reach me via e-mail at tobias@aurer.de 
 
 <!--
