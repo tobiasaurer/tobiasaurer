@@ -10,6 +10,7 @@ Therefore, I decided to focus entirely on my technical aspirations by starting a
 - ✨ This github will be a collection of my personal datascience and programming projects  
     
 - 📫 You can reach me via e-mail at tobias@aurer.de 
+- https://www.linkedin.com/in/tobias-aurer/
 
 <!--
 **tobiasaurer/tobiasaurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
